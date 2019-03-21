@@ -1,2 +1,2 @@
 # mac-os-tips
-Various tips and code snippets for Laravel projects
+Tips and code snippets for Laravel projects
